@@ -1,0 +1,26 @@
+{
+  "name": "JSCOMP1073Base",
+  "homepage": "https://github.com/ilgulee/JSCOMP1073Base",
+  "authors": [
+    "Ilgu Lee <iglee2000ca@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "keywords": [
+    "javaScript"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "Scripts/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "3.2.1",
+    "bootstrap": "^3.3.7"
+  }
+}
